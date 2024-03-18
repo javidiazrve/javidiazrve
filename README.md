@@ -57,8 +57,8 @@ Desarrollador con 2 años de experiencia trabajando en proyectos profesionales p
 <div style="height: 30px"></div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjj&show_icons=true&locale=en&layout=compact" alt="jjj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javidiazrve&show_icons=true&locale=en&layout=compact" alt="javidiazrve" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjj&show_icons=true&locale=en" alt="jjj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javidiazrve&show_icons=true&locale=en" alt="javidiazrve" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjj&" alt="jjj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javidiazrve&" alt="javidiazrve" /></p>
