@@ -4,7 +4,7 @@
 
 ### Desarrollador fullstack.
 
-Desarrollador con 2 años de experiencia trabajando en proyectos profesionales para clientes de todas partes del mundo. Tambien actualmente estudiante de FP en Desarrollo de aplicaciones multiplataformas en UCAM.
+Desarrollador con 3 años de experiencia trabajando en proyectos profesionales para clientes de todas partes del mundo. Tambien actualmente estudiante de FP en Desarrollo de aplicaciones multiplataformas en UCAM.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjj" alt="jjj" /></a> </p>
 
